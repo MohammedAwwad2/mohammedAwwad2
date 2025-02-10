@@ -43,7 +43,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img src="https://www.bigdatawire.com/wp-content/uploads/2015/11/TensorFlow_logo.png" height="40" alt="anaconda logo"  />
+  <img src="https://img.softorage.com/software-logo/tensorflow.webp" height="40" alt="anaconda logo"  />
    
   <img width="12" />
 </div>
