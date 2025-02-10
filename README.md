@@ -43,6 +43,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
   <img src="https://img.softorage.com/software-logo/tensorflow.webp" height="40" alt="anaconda logo"  />
    
   <img width="12" />
