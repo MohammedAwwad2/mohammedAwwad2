@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Mohammed Awwad, and I'm a Computer Science student at Jordan University of Science and Technology, proudly ranked as the top student in my class.<br>******************************************************************************************************************************************************************************<br>✨ **Breaking models since** my first ML experiment crashed.  <br>📚 **Currently diving into** neural networks and predictive analytics.  <br>🎯 **Goals:** Unlock insights from data and design impactful AI solutions.  <br>🎲 **Fun fact:** My first "AI" thought a cat was a toaster. 🐱→🍞</p>
+<p align="left">My name is Mohammed Awwad, fresh graduate from   Jordan University of Science and Technology, proudly ranked as the top student in my class.<br>******************************************************************************************************************************************************************************<br>✨ **Breaking models since** my first ML experiment crashed.  <br>📚 **Currently diving into** neural networks and predictive analytics.  <br>🎯 **Goals:** Unlock insights from data and design impactful AI solutions.  <br>🎲 **Fun fact:** My first "AI" thought a cat was a toaster. 🐱→🍞</p>
 
 ###
 
